@@ -1,0 +1,8 @@
+{
+  "model_name": "essayiq-hybrid",
+  "version": "1.0.0",
+  "dataset": "Learning Agency Lab AES 2.0",
+  "score_range": [1, 6],
+  "status": "not_trained",
+  "metrics": {}
+}
