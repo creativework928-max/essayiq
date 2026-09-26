@@ -1,0 +1,1 @@
+"""EssayIQ application package."""
